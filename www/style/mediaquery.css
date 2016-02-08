@@ -1,0 +1,110 @@
+@media screen and (max-width: 994px){
+
+	.topBarre2Content{
+		width:640px;
+	}
+
+	.fbfeed{
+		margin:0;
+	}
+
+	.fbfeed .comments{
+		max-width: 600px;
+		margin-left: 10px;
+		padding-right: 15.5%;
+		margin-top: -10px;
+	}
+
+	.topBarre{
+		height: inherit;
+	}
+
+	.slider{
+		display: none;
+	}
+
+	.part1{
+		width: 100%;
+		padding-left: 0;
+		padding-right: 0;
+		margin-top: -10px;
+		margin-left:0px;
+	}
+
+	.showSingle, .targetDiv{
+		width: 100%;
+	}
+
+	.colone2{
+		width: 400px;
+	}
+
+	.colone1{
+		width: 200px;
+	}
+	
+	.sectionCommentaire{
+		width:100%;
+		max-width: none;
+	}
+
+	.txtFooter{
+		width: 250px;
+	}
+
+	.contenue,.footerContent, .bgdiv{
+		width: 100%;
+	}
+
+	.logo{
+		width: 70px;
+		margin-right: 5px;
+	}
+
+	.lesForfaits {
+	float: none;
+	max-width: none;
+	margin-right: 0;
+	margin-bottom: 15px;
+	}
+
+	.lesForfaits p, .lesForfaits h3 {
+	text-align: left;
+	line-height: 140%;
+	}
+
+	.titreH {
+	margin-left: 80px;
+	}
+
+	.texte-2 {
+	width: 100%;
+	}
+
+	.fSection{
+		margin-left:0;
+		margin-right: 9px;
+	}
+
+	h1{
+		font-size: 24px;
+	}
+
+	.titreFooter{
+		margin-top: 10px;
+	}
+
+	.colone2{
+		width: 620px;
+	}
+
+	.decouverteAdd{
+	float:left;
+	margin:0;
+	}
+
+	.pointiller, .iconeDocument, .img_content, .fSection1, .img_content2, .contactPro, .img_content3{
+		display: none;
+	}
+
+}
