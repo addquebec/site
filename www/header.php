@@ -2,17 +2,9 @@
  
  <div class="topBarre2" >
  <div class="topBarre2Content">
- <script type="text/javascript">
 
- if (window.innerWidth > "940"){
-    document.write('<h1 class="name">Académie québécoise d’art du déplacement</h1>');
- }
- else
-{
-	document.write('<h1 class="name">ADD Québec</h1>');
-}
-
- </script>
+ <h1 class="name long-name">Académie québécoise d’art du déplacement</h1>
+ <h1 class="name short-name">ADD Québec</h1>
 
  <nav>
  <ul class="menu" style="position:relative;z-index:10;">

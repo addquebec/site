@@ -1,4 +1,13 @@
+.short-name { display: none; }
+
 @media screen and (max-width: 994px){
+	.short-name {
+	  display: block;
+	}
+
+	.long-name {
+	  display: none;
+	}
 
 	.topBarre2Content{
 		width:640px;
