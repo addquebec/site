@@ -369,10 +369,20 @@ float:right;
 margin:-105px 90px 0 0;
 }
 
-.horaire table td {
-height:35px;
-font-family:Arial;
+.horaire tbody td {
+  height:10px;
+  font-family:Arial;
+  border: none;
 }
+
+.horaire td.cours {
+  border: 1.5px solid #e7e7e7;
+}
+
+.horaire tbody tr:nth-child(4n - 3) td {
+  border-top: 1.5px solid #e7e7e7;
+}
+
 
 .jaune,.bleu,.enfant,.vert,.decouverte,.force {
 border-top:none;
