@@ -1,7 +1,7 @@
 	<link href="style/style.css" media="screen" rel="stylesheet" type="text/css" />
  	<link href="style/iconic.css" media="screen" rel="stylesheet" type="text/css" />
-    <link href="style/StyleSheet.css" rel="stylesheet" type="text/css">
-    <link href="style/mediaquery.css" rel="stylesheet" type="text/css">
+    <link href="style/StyleSheet.css?1" rel="stylesheet" type="text/css">
+    <link href="style/mediaquery.css?1" rel="stylesheet" type="text/css">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 
     <link type="text/css" href="style/skitter.styles.css" media="all" rel="stylesheet" />
