@@ -122,7 +122,7 @@ class Horaire {
 
 				[
 					'nom' => 'ADD Débutant',
-					'type' => 'enfant',
+					'type' => 'decouverte',
 					'jour' => 7,
 					'debut' => [17, 45],
 					'fin' => [19, 15]
