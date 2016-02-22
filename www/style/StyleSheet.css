@@ -373,6 +373,7 @@ margin:-105px 90px 0 0;
   height:10px;
   font-family:Arial;
   border: none;
+  border-right: 1.5px solid #e7e7e7;
 }
 
 .horaire td.cours {
