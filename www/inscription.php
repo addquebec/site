@@ -4,42 +4,42 @@
  <title>Inscription cours à Québec</title>
  <link rel="icon" type="image/png" href="images/ico.png" />
  <link rel="shortcut icon" href="favicon.ico" />
- <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
  <meta name="description" content="Inscription aux cours à Québec.">
  <meta name="keyword" content="art du déplacement, ADD, ADD Academy, Yamakasi, parkour, freerun, freerunning, sports urbains, québec, canada, cours, entraînement, école">
  <?php include 'link.php'; ?>
 </head>
- 
-<body> 
- <?php include 'header.php'; ?>  
- 
- <div class="contenue"> 
 
- <div class="part1"> 
+<body>
+ <?php include 'header.php'; ?>
+
+ <div class="contenue">
+
+ <div class="part1">
 
 <h1 style="margin:20px 0 10px 0;">Nos types d'activités</h1>
 <div class="forfaitsWrap">
 	<div class="lesForfaits" >
-	<h3 style="text-align:left;">ADD Débutant et remise en forme</h3><p style="text-align:left;">Premiers essais? Retour au sport après six saisons intensives de votre 
-	série télé préférée? Découvrez les bienfaits de l’ADD avec ces cours de 90 minutes qui ne requièrent aucune 
+	<h3 style="text-align:left;">ADD Débutant et remise en forme</h3><p style="text-align:left;">Premiers essais? Retour au sport après six saisons intensives de votre
+	série télé préférée? Découvrez les bienfaits de l’ADD avec ces cours de 90 minutes qui ne requièrent aucune
 	expérience préalable.</p></div>
 
-	<div class="lesForfaits"><h3>ADD Jeunes</h3><p>Strictement réservé aux jeunes de 8 à 14 ans! Des jeux, des défis physiques, créatifs et 
+	<div class="lesForfaits"><h3>ADD Jeunes</h3><p>Strictement réservé aux jeunes de 8 à 14 ans! Des jeux, des défis physiques, créatifs et
 	d’équipe, des techniques de passements d’obstacles… Aucune expérience requise, mais il faut avoir envie de fournir des efforts!</p></div>
 
-	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">ADD Cours avancés</h3><p style="text-align:right;">Après un minimum de deux ans d’entraînement et sous autorisation d’un instructeur 
-	: les guerriers et amazones auront un test à passer pour être admis! Les élus auront droit à 5% de réduction sur tous 
+	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">ADD Cours avancés</h3><p style="text-align:right;">Après un minimum de deux ans d’entraînement et sous autorisation d’un instructeur
+	: les guerriers et amazones auront un test à passer pour être admis! Les élus auront droit à 5% de réduction sur tous
 	leurs abonnements.</p></div>
 
-	<div class="lesForfaits"><h3 style="text-align:left;">ADD Cours intermédiaire</h3><p style="text-align:left;">Vous aimez les défis plus intenses physiquement et êtes à l’aise avec les mouvements 
+	<div class="lesForfaits"><h3 style="text-align:left;">ADD Cours intermédiaire</h3><p style="text-align:left;">Vous aimez les défis plus intenses physiquement et êtes à l’aise avec les mouvements
 	de base? Dépassez-vous avec ces cours de deux heures.</p></div>
 
 	<div class="lesForfaits"><h3>Mobilité et renforcement</h3><p>Entretenir votre santé ou récupérer d’une blessure sont vos objectifs, venez essayer ces entraînements différents de l'ADD qui vous permettront de travailler sur vos besoins spécifiques avec notre thérapeute du sport de la clinique Makinos Médic. Aucune expérience requise! (réservation 24hrs à l’avance)</p></div>
 
-	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">Entrainement libre</h3><p style="text-align:right;">Au 88 rue St-Jean, notre salle spécialement aménagée, modulable et évoluant au fil 
+	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">Entrainement libre</h3><p style="text-align:right;">Au 88 rue St-Jean, notre salle spécialement aménagée, modulable et évoluant au fil
 	des saisons. Venez vous entrainer à votre rythme!</p></div>
 
-	<div style="clear:both;"></div> 
+	<div style="clear:both;"></div>
 </div>
 
 
@@ -47,7 +47,7 @@
 
  <span class="etape">Étape 1 </span>
  <p class="forfaitDesc" style="float:left;">Cliquez sur le forfait souhaité.<br/>Exemple : 2 activités par semaine pendant six mois.</p>
- <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div> 
+ <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
 
 <?php include 'forfait.php'; ?>
 
@@ -58,16 +58,16 @@
 
 <span class="etape">Étape 2 </span>
 <p class="forfaitDesc">Entrez vos informations et cliquez sur <i>M’abonner</i>. Vous serez dirigé vers un système de paiement sécurisé, après quoi votre abonnement entrera <br/>immédiatement en vigueur.</p>
-<div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div> 
+<div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
 
 	<div class="formInscription">
 
 		 <form name="inscription" id="inscription" method="post"  action="https://www.paypal.com/cgi-bin/webscr"  target="_top">
-		 
-		 <table class="tableForm" style="float:left;"> 
+
+		 <table class="tableForm" style="float:left;">
 		 <tr>
 			 <td class="formLabel" style="width:40px;">Nom :</td>
-			 <td><input class="input" type="text" placeholder="Entrez votre nom" id="formNom" style="width: 181px" required name="nom"></td> 
+			 <td><input class="input" type="text" placeholder="Entrez votre nom" id="formNom" style="width: 181px" required name="nom"></td>
 			 <td class="formLabel" >Prénom :</td>
 			 <td><input class="input" type="text" placeholder="Entrez votre prénom" id="formPrenom" style="width: 181px" required name="prenom"></td>
 		 </tr>
@@ -92,8 +92,8 @@
 		 <div style="clear:both;"></div>
 
 		 <input type="hidden" name="cmd" value="_s-xclick">
-		<input type="hidden" name="hosted_button_id" value="JT9L9MLX3SZEQ"> 
- 
+		<input type="hidden" name="hosted_button_id" value="JT9L9MLX3SZEQ">
+
 		<table style="visibility:hidden;float:right;margin-top:-140px;">
 		<tr><td><input type="hidden" name="on0" value="Votre forfait">Votre forfait</td></tr><tr><td>
 		<select name="os0" id="os0">
@@ -114,7 +114,7 @@
 		Pas convaincu?
 		Découvrez les <a href="9raisons.php" style="font-style:normal;text-decoration:underline;"><span style="font-family:Arial;font-weight:normal;">9</span> raisons d’essayer l’ADD! </a><br/>
 		 Pas certain de la formule qui vous convient? Faites un <b>cours d'essai gratuit</b> ou <a class="contactForm" style="font-style:normal;text-decoration:underline;">contactez-nous!</a><br/>
-		<br/>Pour la politique de réservation et d’annulation : 
+		<br/>Pour la politique de réservation et d’annulation :
 		<a title="Quebec_files/politique_annulation.pdf" href="Quebec_files/politique_annulation.pdf" style="font-style:normal;text-decoration:underline;" target="_blank">cliquez ici.</a></p>
 		</div>
 
@@ -122,7 +122,7 @@
 
 <span class="etape">Étape 3 </span>
 	<p class="forfaitDesc">Confirmez votre présence aux cours. Ce système est très souple et vous permet de venir quand vous voulez dans la semaine, mais vous avez <br/>la responsabilité de confirmer votre présence aux cours chaque semaine, au moins 3 heures à l’avance.</p>
-	<div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div> 
+	<div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
 
 	<!--<div class="h2Etape3">
 		<h2>Cours découverte et remise en forme -> <span class="blue">ADD Débutant et remise en forme</span></h2>
@@ -138,24 +138,24 @@
 	-->
 
 	<form method="post" action="mailCours.php" onsubmit="alert('Merci!')">
-		 <table class="tableForm" > 
+		 <table class="tableForm" >
 			 <tr>
 			 	 <td class="formLabel" style="width:46px;">Nom :</td>
-				 <td><input class="input" type="text" placeholder="Entrez votre nom et prénom" style="width:200px;" required name="nom"></td>   
+				 <td><input class="input" type="text" placeholder="Entrez votre nom et prénom" style="width:200px;" required name="nom"></td>
 				 <td class="formLabel" style="width:60px;">Courriel :</td>
-				 <td><input class="input" type="text" placeholder="Entrez votre adresse courriel" style="width: 175px" required name="mail"></td> 
+				 <td><input class="input" type="text" placeholder="Entrez votre adresse courriel" style="width: 175px" required name="mail"></td>
 			 </tr>
 			 <tr>
 			 	<td class="formLabel" style="width:32px;">Tél. :</td>
-				<td><input class="input" type="text" placeholder="Numéros de téléphone"  style="width:200px;" required name="tel"></td> 
+				<td><input class="input" type="text" placeholder="Numéros de téléphone"  style="width:200px;" required name="tel"></td>
 			 	<td class="formLabel" style="width:170px;">Je viendrai au cours de :</td>
 				<td>
-				 	<select style="width:181px;" name="cours"> 
+				 	<select style="width:181px;" name="cours">
 				 		<option>Choisissez un cours...</option>
 				 		<option value="Lundi, ADD découverte : 18h30 à 20h00">Lundi ADD débutant : 18h30-20h</option>
 				 		<option value="Mardi, ADD régulier : 18h30-20h30">Mardi ADD intermédiaire : 18h30-20h30</option>
 				 		<option value="Mercredi, ADD débutant : 17h-18h30">Mercredi ADD débutant : 17h-18h30</option>
-						<option value="Mercredi, ADD avancé : 19h-20h30">Mercredi ADD avancé : 18h30-20h00</option> 
+						<option value="Mercredi, ADD avancé : 19h-20h30">Mercredi ADD avancé : 18h30-20h00</option>
 				 		<option value="Jeudi, ADD régulier : 18h30-20h30">Jeudi ADD intermédiaire : 18h30-20h30</option>
 				 		<option value="Vendredi, ADD découverte : 16h-17h30">Vendredi ADD débutant : 16h-17h30</option>
 				 		<option value="Vendredi, Pratique libre : 17h30-20h30">Vendredi Entrainement libre en salle : 17h30-20h30</option>
@@ -167,9 +167,9 @@
 				 	</select>
 				 </td>
 			 </tr>
-			
+
 		 </table>
-		 
+
 		 <button type="submit" class="submit"  name="submit" style="width:250px;float:left;">Confirmez ma présence</button>
 	</form>
 
@@ -201,10 +201,10 @@ RAPPELS :</br>
 
  <h2 style="margin-top:20px;">Documents obligatoires : </h2>
  <p class="txtDocument">
- Aussi important que la bouteille d’eau! Pour participer à nos 
+ Aussi important que la bouteille d’eau! Pour participer à nos
  activités, veuillez imprimer et signer les deux documents suivants.
- N’oubliez pas de les apporter au premier cours. Pour les mineurs, 
- un parent ou tuteur doit signer. 
+ N’oubliez pas de les apporter au premier cours. Pour les mineurs,
+ un parent ou tuteur doit signer.
  </p>
 
  <span class="iconic" style="opacity:0.8;font-size:30px;margin-bottom:5px;"> $</span> <a title="Quebec_files/responsabilites.pdf" href="Quebec_files/responsabilites.pdf" target="_blank">Acceptation des risques</a><br/>
@@ -216,13 +216,13 @@ RAPPELS :</br>
  <span class="iconic" style="opacity:0.8;float:left;margin-top:35px;padding-left:9px;">+</span>
  <img src="images/bottle.png" alt="" class="bouteille">
  </div>
- 
- <div style="clear:both;"></div> 
- </div> 
- </div> 
+
+ <div style="clear:both;"></div>
+ </div>
+ </div>
 
 <?php include 'footer.php'; ?>
-  
+
 <script type="text/javascript">
 
 (function() {
@@ -302,8 +302,8 @@ $('#inscription').on('submit', function validateForm(){
 		$tel = document.getElementById("tel").value;
 		$courriel = document.getElementById("courriel").value;
 		$comments = document.getElementById("formComments").value;
-		
-		//Construction des tableaux qui seront envoyés aux variables "custom" et "on3"	
+
+		//Construction des tableaux qui seront envoyés aux variables "custom" et "on3"
 		$formValue = [$duree, $nom, $prenom, $tel, $courriel, $comments];
 		$os0.find('option[data-forfait-id="'+ selectedForfaitId +'"]').prop('selected', 'selected');
 		document.getElementById("custom").value = $formValue;
