@@ -1,0 +1,22 @@
+db:
+  image: mysql:5.7
+  environment:
+    MYSQL_USER: add
+    MYSQL_PASSWORD: dev
+    MYSQL_DATABASE: add
+    MYSQL_ROOT_PASSWORD: dev
+web:
+  build: .
+  ports:
+    - "3001:80"
+  volumes:
+    - ./www:/var/www/html
+    - ./src:/var/www/src
+    - ./bootstrap.php:/var/www/bootstrap.php
+    - ./composer.json:/var/www/composer.json
+    - ./composer.lock:/var/www/composer.lock
+    - ./vendor:/var/www/vendor
+    - .env:/var/www/.env
+  env_file: .env
+  links:
+    - db
