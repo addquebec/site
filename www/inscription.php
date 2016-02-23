@@ -8,6 +8,7 @@
  <meta name="description" content="Inscription aux cours à Québec.">
  <meta name="keyword" content="art du déplacement, ADD, ADD Academy, Yamakasi, parkour, freerun, freerunning, sports urbains, québec, canada, cours, entraînement, école">
  <?php include 'link.php'; ?>
+ <script src="js/reserve.js"></script>
 </head>
 
 <body>
@@ -137,7 +138,7 @@
 	Pratique libre  Entrainement libre</p>
 	-->
 
-	<form method="post" action="mailCours.php" onsubmit="alert('Merci!')">
+	<form method="post" action="mailCours.php" class="reserve-form">
 		 <table class="tableForm" >
 			 <tr>
 			 	 <td class="formLabel" style="width:46px;">Nom :</td>
@@ -150,8 +151,8 @@
 				<td><input class="input" type="text" placeholder="Numéros de téléphone"  style="width:200px;" required name="tel"></td>
 			 	<td class="formLabel" style="width:170px;">Je viendrai au cours de :</td>
 				<td>
-				 	<select style="width:181px;" name="cours">
-				 		<option>Choisissez un cours...</option>
+				 	<select style="width:181px;" name="cours" required>
+				 		<option value="" disabled selected>Choisissez un cours...</option>
 				 		<option value="Lundi, ADD découverte : 18h30 à 20h00">Lundi ADD débutant : 18h30-20h</option>
 				 		<option value="Mardi, ADD régulier : 18h30-20h30">Mardi ADD intermédiaire : 18h30-20h30</option>
 				 		<option value="Mercredi, ADD débutant : 17h-18h30">Mercredi ADD débutant : 17h-18h30</option>
@@ -170,7 +171,8 @@
 
 		 </table>
 
-		 <button type="submit" class="submit"  name="submit" style="width:250px;float:left;">Confirmez ma présence</button>
+		 <button type="submit" class="submit"  name="submit" style="width:250px;">Confirmez ma présence</button>
+         <span class="response-message"></span>
 	</form>
 
 <div style="clear:both;margin-bottom:10px;"></div>

@@ -715,3 +715,11 @@ margin-bottom:15px;
 .lesForfaits p,.horaire table {
 margin-top:5px;
 }
+
+.response-message.error {
+	color: red;
+}
+
+button[type=submit][disabled] {
+	opacity: 0.5;
+}
