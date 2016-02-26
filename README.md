@@ -18,6 +18,12 @@
     cd www
     php -s localhost:3001
 
+### Développement local avec Docker et Docker Compose
+
+    docker-compose run web composer update # au besoin
+    docker-compose up
+
+Le site web est disponible à http://localhost:3001
 
 ## Déploiement
 
