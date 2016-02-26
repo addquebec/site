@@ -23,11 +23,8 @@ $sujet = $_POST['cours']." ".$_POST['nom']. " ". $_POST['tel'] ;
 $message = $_POST['mail']. " ". $_POST['tel'] ;
 $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-$headers .= "From: ". $_POST['email'] ."\r\n";
-
-$headers2 = "MIME-Version: 1.0" . "\r\n";
-$headers2 .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-$headers2 .= "From: noreply@addquebec.ca"."\r\n";
+$headers .= "From: noreply@addquebec.ca \r\n";
+$headers .= "Reply-To: ". $_POST['mail'] ." \r\n";
 
 mail(ADD_EMAIL, $sujet, $message, $headers);
 
