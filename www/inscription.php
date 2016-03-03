@@ -138,7 +138,7 @@
 	Pratique libre  Entrainement libre</p>
 	-->
 
-	<form method="post" action="mailCours.php" class="reserve-form">
+	<form method="post" action="mailCours.php" class="js-reserve-form">
 		 <table class="tableForm" >
 			 <tr>
 			 	 <td class="formLabel" style="width:46px;">Nom :</td>
@@ -171,7 +171,12 @@
 
 		 </table>
 
-		 <button type="submit" class="submit"  name="submit" style="width:250px;">Confirmez ma présence</button>
+         <button type="submit" class="submit"  name="submit" style="width:250px;">
+             Confirmez ma présence
+         </button>
+	     <button type="button" class="clear-form js-clear-form" style="display: none;">
+             Confirmer la présense d'une autre personne
+         </button>
          <span class="response-message"></span>
 	</form>
 

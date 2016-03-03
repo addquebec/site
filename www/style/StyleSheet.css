@@ -553,7 +553,9 @@ padding-left:3px;
 color:rgba(0,0,0,0.8);
 }
 
-.submit,.btmMailchimp {
+.submit,
+.btmMailchimp,
+.clear-form {
 height:30px;
 background:#2d59be url(bg02.png);
 border:2px solid rgba(0,0,0,0.2);
@@ -569,12 +571,19 @@ float:left;
 padding:0 20px;
 }
 
-.submit {
+.submit,
+.clear-form {
 width:150px;
 height:34px;
 margin-right:10px;
 }
 
+.clear-form {
+	background-color: #666;
+	width: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+}
 .decouverteAdd p {
 font-style:italic;
 margin-top:10px;
@@ -654,6 +663,10 @@ margin-bottom:50px;
 height:33px;
 width:225px;
 color:#000;
+}
+
+input[readonly] {
+	background-color: #ddd;
 }
 
 .form select{
