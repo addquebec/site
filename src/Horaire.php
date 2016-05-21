@@ -88,7 +88,7 @@ class Horaire {
 				],
 
 				[
-					'nom' => 'Force et mobilité',
+					'nom' => 'Mobilité et renforcement',
 					'type' => 'force',
 					'jour' => 6,
 					'debut' => [11, 0],
