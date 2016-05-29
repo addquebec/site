@@ -18,7 +18,7 @@
  <li><a href="#">Cours</a>
  <ul>
  <li ><a href="9raisons.php" >9 bonnes raisons</a></li>
- <li ><a href="inscription.php" >à Québec</a></li>
+ <li ><a href="inscription.php" >À Québec</a></li>
  
  </ul>
  </li>

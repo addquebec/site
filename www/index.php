@@ -31,7 +31,7 @@
  
  <div class="content1a">
  <img src="images/logo.png" class="logo" alt="" />
- <h1 class="titreH">À la recherche d’une école de parkour ou d’ADD à Québec?</h1>
+ <h1 class="titreH">À la recherche d’une école d'ADD ou de parkour à Québec?</h1>
  <p class="texte-1">
  L’Académie québécoise d’art du déplacement a pour mission la promotion de 
  l’art du déplacement (ADD), discipline aussi connue sous le nom de « parkour ».
