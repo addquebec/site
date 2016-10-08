@@ -159,7 +159,6 @@
 						<option value="Mercredi, ADD avancé : 19h-20h30">Mercredi ADD avancé : 18h30-20h00</option>
 				 		<option value="Jeudi, ADD régulier : 18h30-20h30">Jeudi ADD intermédiaire : 18h30-20h30</option>
 				 		<option value="Vendredi, ADD découverte : 16h-17h30">Vendredi ADD débutant : 16h-17h30</option>
-				 		<option value="Vendredi, Pratique libre : 17h30-20h30">Vendredi Entrainement libre en salle : 17h30-20h30</option>
 				 		<option value="Samedi, force et mobilité : 11h-12h30">Samedi Mobilité &amp; Renforcement : 11h-12h30</option>
 				 		<option value="Samedi, pratique libre 13h-16h">Samedi Entrainement libre en salle : 13h30-16h</option>
 				 		<option value="Dimanche, ADD 8 à 10ans : 15h à 16h15">Dimanche ADD 8 à 10ans : 15h-16h15</option>

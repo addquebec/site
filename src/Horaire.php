@@ -80,14 +80,6 @@ class Horaire {
 				],
 
 				[
-					'nom' => 'Entrainement libre en salle',
-					'type' => 'jaune',
-					'jour' => 5,
-					'debut' => [17, 30],
-					'fin' => [20, 30]
-				],
-
-				[
 					'nom' => 'Mobilité et renforcement',
 					'type' => 'force',
 					'jour' => 6,
