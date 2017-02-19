@@ -29,6 +29,7 @@
  <li><a href="artistique.php"> Performances artistiques</a></li>
  </ul>
  </li>
+  <li><a href="https://clients.mindbodyonline.com/classic/ws?studioid=726696&stype=-7&sView=day&sLoc=0">Inscription</a>
  </ul>
  
  </nav>
