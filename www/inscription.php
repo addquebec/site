@@ -35,7 +35,7 @@
 	<div class="lesForfaits"><h3 style="text-align:left;">ADD Cours intermédiaire</h3><p style="text-align:left;">Vous aimez les défis plus intenses physiquement et êtes à l’aise avec les mouvements
 	de base? Dépassez-vous avec ces cours de deux heures.</p></div>
 
-	<div class="lesForfaits"><h3>Mobilité et renforcement</h3><p>Entretenir votre santé ou récupérer d’une blessure sont vos objectifs, venez essayer ces entraînements différents de l'ADD qui vous permettront de travailler sur vos besoins spécifiques avec notre thérapeute du sport de la clinique Makinos Médic. Aucune expérience requise! (réservation 24hrs à l’avance)</p></div>
+	<div class="lesForfaits"><h3>L'entraînement du guerrier</h3><p>Combinant anneaux de gymnastique, Mouvement Naturel (MovNat) et mouvements de callisthénie, cette méthode d’entraînement se résume à la maîtrise de son propre corps. En appliquant cette approche lors de vos entraînements, vos mouvements seront plus fluides et vous aurez une plus grande force et une plus grande stabilité. </p></div>
 
 	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">Entrainement libre</h3><p style="text-align:right;">Au 88 rue St-Jean, notre salle spécialement aménagée, modulable et évoluant au fil
 	des saisons. Venez vous entrainer à votre rythme!</p></div>
