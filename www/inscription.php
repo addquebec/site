@@ -76,7 +76,7 @@
 
 	<?php include 'horaire.php'; ?>
 	<p style="text-align: right;">
-		<a title="Quebec_files/horaire_AOUT2014.pdf" target="_blank" href="Quebec_files/horaire.pdf" style="font-style:normal;font-size:13px;">Cliquez ici pour une version imprimable de l’horaire! </a>
+		<a title="Quebec_files/Horaire_Mai2017.pdf" target="_blank" href="Quebec_files/Horaire_Mai2017.pdf" style="font-style:normal;font-size:13px;">Cliquez ici pour une version imprimable de l’horaire! </a>
 	</p>
 	</div>
 
