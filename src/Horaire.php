@@ -48,22 +48,6 @@ class Horaire {
 				],
 
 				[
-					'nom' => 'ADD Débutant',
-					'type' => 'decouverte',
-					'jour' => 3,
-					'debut' => [17, 0],
-					'fin' => [18, 30]
-				],
-
-				[
-					'nom' => 'ADD Avancé',
-					'type' => 'bleu',
-					'jour' => 3,
-					'debut' => [18, 30],
-					'fin' => [20, 0]
-				],
-
-				[
 					'nom' => 'ADD Intermédiaire',
 					'type' => 'vert',
 					'jour' => 4,
@@ -80,19 +64,11 @@ class Horaire {
 				],
 
 				[
-					'nom' => 'Entrainement libre en salle',
-					'type' => 'jaune',
-					'jour' => 5,
-					'debut' => [17, 30],
-					'fin' => [20, 30]
-				],
-
-				[
-					'nom' => 'Force et mobilité',
+					'nom' => 'L\'entraînement du guerrier',
 					'type' => 'force',
 					'jour' => 6,
 					'debut' => [11, 0],
-					'fin' => [12, 30]
+					'fin' => [12, 00]
 				],
 
 				[
@@ -126,6 +102,22 @@ class Horaire {
 					'jour' => 7,
 					'debut' => [17, 45],
 					'fin' => [19, 15]
+				],
+				
+				[
+					'nom' => 'ADD 8 à 10ans',
+					'type' => 'enfant',
+					'jour' => 3,
+					'debut' => [17, 0],
+					'fin' => [18, 30]
+				],
+				
+				[
+					'nom' => 'ADD 11 à 15ans',
+					'type' => 'enfant',
+					'jour' => 3,
+					'debut' => [19, 0],
+					'fin' => [20, 30]
 				]
 			];
 

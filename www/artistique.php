@@ -21,7 +21,7 @@
 
         <img  alt="" class="img_content3">
 
-        <p><i>Notez que nous travaillons avec plaisir avec les grandes entreprises et sociétés de productions, mais que nous refusons systématiquement les contrats ou partenariats avec les compagnies de cigarettes, d’alcool, de jeu, ou toute autre chaîne étant reconnue pour ses méfaits sur la santé ou l’environnement.</i></p>
+        <p><i>Notez que nous travaillons avec plaisir avec les grandes et moyennes entreprises et sociétés de productions, mais que nous refusons systématiquement les contrats ou partenariats avec les compagnies de cigarettes, d’alcool, de jeu, ou toute autre chaîne étant reconnue pour ses méfaits sur la santé ou l’environnement.</i></p>
         </div> 
     </div>    
     

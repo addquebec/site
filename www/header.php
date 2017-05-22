@@ -18,7 +18,7 @@
  <li><a href="#">Cours</a>
  <ul>
  <li ><a href="9raisons.php" >9 bonnes raisons</a></li>
- <li ><a href="inscription.php" >à Québec</a></li>
+ <li ><a href="inscription.php" >À Québec</a></li>
  
  </ul>
  </li>
@@ -29,6 +29,7 @@
  <li><a href="artistique.php"> Performances artistiques</a></li>
  </ul>
  </li>
+  <li><a href="https://clients.mindbodyonline.com/classic/ws?studioid=726696&stype=-7&sView=day&sLoc=0">Inscription</a>
  </ul>
  
  </nav>
