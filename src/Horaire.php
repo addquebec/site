@@ -64,7 +64,7 @@ class Horaire {
 				],
 
 				[
-					'nom' => 'L\'entraînement du guerrier',
+					'nom' => 'L\'entrainement du guerrier',
 					'type' => 'force',
 					'jour' => 6,
 					'debut' => [11, 0],
