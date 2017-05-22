@@ -71,7 +71,6 @@
  <span class="etape">Horaires </span>
  <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
 
-		<p style="font-size:12px;float:right;"><i>Veuillez noter que les cours n'ont pas lieu les jours <a  target="blank" href="http://www.revenuquebec.ca/fr/nous_joindre/entreprises/feries.aspx" >fériés.</a> </i></p>
 	<div class="horaire">
 
 	<?php include 'horaire.php'; ?>
