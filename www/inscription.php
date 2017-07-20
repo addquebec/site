@@ -21,21 +21,17 @@
 <h1 style="margin:20px 0 10px 0;">Nos types d'activités</h1>
 <div class="forfaitsWrap">
 	<div class="lesForfaits" >
-	<h3 style="text-align:left;">ADD Débutant et remise en forme</h3><p style="text-align:left;">Premiers essais? Retour au sport après six saisons intensives de votre
-	série télé préférée? Découvrez les bienfaits de l’ADD avec ces cours de 90 minutes qui ne requièrent aucune
-	expérience préalable.</p></div>
+	<h3 style="text-align:left;">ADD</h3><p style="text-align:left;">Que vous soyez débutant ou expérimenté, venez travailler votre physique et votre mental en remplissant de nombreux défis adaptés à vos capacités.</p></div>
 
-	<div class="lesForfaits"><h3>ADD Jeunes</h3><p>Strictement réservé aux jeunes de 8 à 14 ans! Des jeux, des défis physiques, créatifs et
+	<div class="lesForfaits"><h3>ADD Jeunes</h3><p>Strictement réservé aux jeunes de 8 à 15 ans! Des jeux, des défis physiques, créatifs et
 	d’équipe, des techniques de passements d’obstacles… Aucune expérience requise, mais il faut avoir envie de fournir des efforts!</p></div>
 
-	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">ADD Cours avancés</h3><p style="text-align:right;">Après un minimum de deux ans d’entraînement et sous autorisation d’un instructeur
-	: les guerriers et amazones auront un test à passer pour être admis! Les élus auront droit à 5% de réduction sur tous
-	leurs abonnements.</p></div>
+	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">JAM / Porte ouverte / Atelier</h3><p style="text-align:right;">Nous organisons aussi des événements particuliers :  retrouvez-nous aux beaux jours pour des JAM, et le reste de l'année, à nos portes ouvertes. De plus, nous offrons régulièrement des ateliers spécialisés. Surveillez notre facebook et venez nous rejoindre au 88 rue St-Jean!</p></div>
 
-	<div class="lesForfaits"><h3 style="text-align:left;">ADD Cours intermédiaire</h3><p style="text-align:left;">Vous aimez les défis plus intenses physiquement et êtes à l’aise avec les mouvements
-	de base? Dépassez-vous avec ces cours de deux heures.</p></div>
+	<div class="lesForfaits"><h3 style="text-align:left;">ADD (sur invitation)</h3><p style="text-align:left;">Vous aimez les défis plus intenses physiquement et êtes à l’aise avec les mouvements
+	de base? Dépassez-vous avec ce cours réservé aux étudiants ayant plusieurs mois d'expériences au sein de l'académie.</p></div>
 
-	<div class="lesForfaits"><h3>L'entraînement du guerrier</h3><p>Combinant anneaux de gymnastique, Mouvement Naturel (MovNat) et mouvements de callisthénie, cette méthode d’entraînement se résume à la maîtrise de son propre corps. En appliquant cette approche lors de vos entraînements, vos mouvements seront plus fluides et vous aurez une plus grande force et une plus grande stabilité. </p></div>
+	<div class="lesForfaits"><h3>L'entraînement du guerrier</h3><p>Combinant anneaux de gymnastique, Mouvement Naturel et mouvements de callisthénie, cette méthode d’entraînement se résume à la maîtrise de son propre corps. En appliquant cette approche lors de vos entraînements, vos mouvements seront plus fluides, vous aurez une plus grande force et une meilleure stabilité.</p></div>
 
 	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">Entrainement libre</h3><p style="text-align:right;">Au 88 rue St-Jean, notre salle spécialement aménagée, modulable et évoluant au fil
 	des saisons. Venez vous entrainer à votre rythme!</p></div>
@@ -45,11 +41,12 @@
 
  <span class="etape">Forfaits </span>
  <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
+ <p style="padding-top:5px;font-weight:bold;">* Prenez note que vous pouvez venir faire un cours d'essai gratuit lors du cours d'ADD du dimanche.</p>
+
 
 <?php include 'forfait.php'; ?>
 
 <p style="padding-top:5px;font-weight:bold;">Nos formules d'abonnement sont souples et vous permettent de choisir le nombre de cours que vous désirez suivre pendant une semaine.</p>
-
 
 <div style="clear:both;height:25px;"></div>
 
@@ -75,7 +72,7 @@
 
 	<?php include 'horaire.php'; ?>
 	<p style="text-align: right;">
-		<a title="Quebec_files/Horaire_Mai2017.pdf" target="_blank" href="Quebec_files/Horaire_Mai2017.pdf" style="font-style:normal;font-size:13px;">Cliquez ici pour une version imprimable de l’horaire! </a>
+		<a title="Quebec_files/Horaire_Juillet_2017.pdf" target="_blank" href="Quebec_files/Horaire_Juillet_2017.pdf" style="font-style:normal;font-size:13px;">Cliquez ici pour une version imprimable de l’horaire! </a>
 	</p>
 	</div>
 
@@ -110,7 +107,7 @@ RAPPELS :</br>
  Aussi important que la bouteille d’eau! Pour participer à nos
  activités, veuillez imprimer et signer les deux documents suivants.
  N’oubliez pas de les apporter au premier cours. Pour les mineurs,
- un parent ou tuteur doit signer.
+ un parent ou tuteur légal doit signer.
  </p>
 
  <span class="iconic" style="opacity:0.8;font-size:30px;margin-bottom:5px;"> $</span> <a title="Quebec_files/responsabilites.pdf" href="Quebec_files/responsabilites.pdf" target="_blank">Acceptation des risques</a><br/>
