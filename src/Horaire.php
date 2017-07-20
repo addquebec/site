@@ -76,7 +76,7 @@ class Horaire {
 					'type' => 'force',
 					'jour' => 4,
 					'debut' => [17, 0],
-					'fin' => [18, 30]
+					'fin' => [18, 15]
 				],
 
 				[
