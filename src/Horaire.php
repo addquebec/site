@@ -35,16 +35,16 @@ class Horaire {
 					'nom' => 'ADD',
 					'type' => 'vert',
 					'jour' => 1,
-					'debut' => [18, 00],
-					'fin' => [19,30]
+					'debut' => [18, 30],
+					'fin' => [20,00]
 				],
 
 				[
 					'nom' => 'ADD',
 					'type' => 'vert',
 					'jour' => 2,
-					'debut' => [18, 00],
-					'fin' => [19, 30]
+					'debut' => [18, 30],
+					'fin' => [20, 00]
 				],
 
 				[
@@ -61,22 +61,6 @@ class Horaire {
 					'jour' => 5,
 					'debut' => [17, 00],
 					'fin' => [18, 30]
-				],
-
-				[
-					'nom' => 'L\'entrainement du guerrier',
-					'type' => 'force',
-					'jour' => 6,
-					'debut' => [11, 0],
-					'fin' => [12, 15]
-				],
-                
-                [
-					'nom' => 'L\'entrainement du guerrier',
-					'type' => 'force',
-					'jour' => 4,
-					'debut' => [17, 0],
-					'fin' => [18, 15]
 				],
 
 				[
