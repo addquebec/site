@@ -39,14 +39,6 @@
                 </p>
             </div>
 
-            <div class="paragraphe">
-                <div class="conteneurADDExp">
-                    <h1 style="margin-top:20px">ADD Expérience 2018</h1>
-                    <a class="btn btn-blue" href="https://quebecadd.wixsite.com/exp2018" target="_blank">Inscription</a>
-                </div>
-                <img src="images/ADDExp2018.png" alt="" style="width:100%;margin-top:20px " />
-            </div>
-
             <div style="clear:both;"></div>
 
             <div class="content1b">
