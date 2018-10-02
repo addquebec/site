@@ -28,18 +28,13 @@
 
 	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">JAM / Porte ouverte / Atelier</h3><p style="text-align:right;">Nous organisons aussi des événements particuliers :  retrouvez-nous aux beaux jours pour des JAM, et le reste de l'année, à nos portes ouvertes. De plus, nous offrons régulièrement des ateliers spécialisés. Surveillez notre facebook et venez nous rejoindre au 88 rue St-Jean!</p></div>
 
-	<div class="lesForfaits"><h3 style="text-align:left;">ADD (sur invitation)</h3><p style="text-align:left;">Vous aimez les défis plus intenses physiquement et êtes à l’aise avec les mouvements
-	de base? Dépassez-vous avec ce cours réservé aux étudiants ayant plusieurs mois d'expériences au sein de l'académie.</p></div>
-
-	<div class="lesForfaits"><h3>L'entraînement du guerrier</h3><p>Combinant anneaux de gymnastique, Mouvement Naturel et mouvements de callisthénie, cette méthode d’entraînement se résume à la maîtrise de son propre corps. En appliquant cette approche lors de vos entraînements, vos mouvements seront plus fluides, vous aurez une plus grande force et une meilleure stabilité.</p></div>
-
-	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">Entrainement libre</h3><p style="text-align:right;">Au 88 rue St-Jean, notre salle spécialement aménagée, modulable et évoluant au fil
+	<div class="lesForfaits" style="text-align:left;"><h3 style="text-align:left;">Entrainement libre</h3><p style="text-align:left;">Au 88 rue St-Jean, notre salle spécialement aménagée, modulable et évoluant au fil
 	des saisons. Venez vous entrainer à votre rythme!</p></div>
 
 	<div style="clear:both;"></div>
 </div>
 
- <span class="etape">Forfaits </span>
+ <span class="etape">Forfaits (Changements à venir en Janvier 2019)</span>
  <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
  <p style="padding-top:5px;font-weight:bold;">* Prenez note que vous pouvez venir faire un cours d'essai gratuit lors du cours d'ADD du dimanche.</p>
 
@@ -65,7 +60,7 @@
 
  <div style="clear:both;margin-bottom:5px;"></div>
  
- <span class="etape">Horaires </span>
+ <span class="etape">Horaires (Changements à venir en Janvier 2019)</span>
  <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
 
 	<div class="horaire">
