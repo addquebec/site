@@ -21,21 +21,17 @@
 <h1 style="margin:20px 0 10px 0;">Nos types d'activités</h1>
 <div class="forfaitsWrap">
 	<div class="lesForfaits" >
-	<h3 style="text-align:left;">ADD Débutant et remise en forme</h3><p style="text-align:left;">Premiers essais? Retour au sport après six saisons intensives de votre
-	série télé préférée? Découvrez les bienfaits de l’ADD avec ces cours de 90 minutes qui ne requièrent aucune
-	expérience préalable.</p></div>
+	<h3 style="text-align:left;">ADD</h3><p style="text-align:left;">Que vous soyez débutant ou expérimenté, venez travailler votre physique et votre mental en remplissant de nombreux défis adaptés à vos capacités.</p></div>
 
-	<div class="lesForfaits"><h3>ADD Jeunes</h3><p>Strictement réservé aux jeunes de 8 à 14 ans! Des jeux, des défis physiques, créatifs et
+	<div class="lesForfaits"><h3>ADD Jeunes</h3><p>Strictement réservé aux jeunes de 8 à 15 ans! Des jeux, des défis physiques, créatifs et
 	d’équipe, des techniques de passements d’obstacles… Aucune expérience requise, mais il faut avoir envie de fournir des efforts!</p></div>
 
-	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">ADD Cours avancés</h3><p style="text-align:right;">Après un minimum de deux ans d’entraînement et sous autorisation d’un instructeur
-	: les guerriers et amazones auront un test à passer pour être admis! Les élus auront droit à 5% de réduction sur tous
-	leurs abonnements.</p></div>
+	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">JAM / Porte ouverte / Atelier</h3><p style="text-align:right;">Nous organisons aussi des événements particuliers :  retrouvez-nous aux beaux jours pour des JAM, et le reste de l'année, à nos portes ouvertes. De plus, nous offrons régulièrement des ateliers spécialisés. Surveillez notre facebook et venez nous rejoindre au 88 rue St-Jean!</p></div>
 
-	<div class="lesForfaits"><h3 style="text-align:left;">ADD Cours intermédiaire</h3><p style="text-align:left;">Vous aimez les défis plus intenses physiquement et êtes à l’aise avec les mouvements
-	de base? Dépassez-vous avec ces cours de deux heures.</p></div>
+	<div class="lesForfaits"><h3 style="text-align:left;">ADD (sur invitation)</h3><p style="text-align:left;">Vous aimez les défis plus intenses physiquement et êtes à l’aise avec les mouvements
+	de base? Dépassez-vous avec ce cours réservé aux étudiants ayant plusieurs mois d'expériences au sein de l'académie.</p></div>
 
-	<div class="lesForfaits"><h3>Mobilité et renforcement</h3><p>Entretenir votre santé ou récupérer d’une blessure sont vos objectifs, venez essayer ces entraînements différents de l'ADD qui vous permettront de travailler sur vos besoins spécifiques avec notre thérapeute du sport de la clinique Makinos Médic. Aucune expérience requise! (réservation 24hrs à l’avance)</p></div>
+	<div class="lesForfaits"><h3>L'entraînement du guerrier</h3><p>Combinant anneaux de gymnastique, Mouvement Naturel et mouvements de callisthénie, cette méthode d’entraînement se résume à la maîtrise de son propre corps. En appliquant cette approche lors de vos entraînements, vos mouvements seront plus fluides, vous aurez une plus grande force et une meilleure stabilité.</p></div>
 
 	<div class="lesForfaits" style="margin-right:0;"><h3 style="text-align:right;">Entrainement libre</h3><p style="text-align:right;">Au 88 rue St-Jean, notre salle spécialement aménagée, modulable et évoluant au fil
 	des saisons. Venez vous entrainer à votre rythme!</p></div>
@@ -43,70 +39,18 @@
 	<div style="clear:both;"></div>
 </div>
 
-
- <h1 style="margin:20px 0 10px 0;">Inscription aux cours à Québec en <span style="text-decoration:underline;">trois étapes</span> faciles!</h1>
-
- <span class="etape">Étape 1 </span>
- <p class="forfaitDesc" style="float:left;">Cliquez sur le forfait souhaité.<br/>Exemple : 2 activités par semaine pendant six mois.</p>
+ <span class="etape">Forfaits </span>
  <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
+ <p style="padding-top:5px;font-weight:bold;">* Prenez note que vous pouvez venir faire un cours d'essai gratuit lors du cours d'ADD du dimanche.</p>
+
 
 <?php include 'forfait.php'; ?>
 
 <p style="padding-top:5px;font-weight:bold;">Nos formules d'abonnement sont souples et vous permettent de choisir le nombre de cours que vous désirez suivre pendant une semaine.</p>
 
-
 <div style="clear:both;height:25px;"></div>
 
-<span class="etape">Étape 2 </span>
-<p class="forfaitDesc">Entrez vos informations et cliquez sur <i>M’abonner</i>. Vous serez dirigé vers un système de paiement sécurisé, après quoi votre abonnement entrera <br/>immédiatement en vigueur.</p>
-<div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
-
 	<div class="formInscription">
-
-		 <form name="inscription" id="inscription" method="post"  action="https://www.paypal.com/cgi-bin/webscr"  target="_top">
-
-		 <table class="tableForm" style="float:left;">
-		 <tr>
-			 <td class="formLabel" style="width:40px;">Nom :</td>
-			 <td><input class="input" type="text" placeholder="Entrez votre nom" id="formNom" style="width: 181px" required name="nom"></td>
-			 <td class="formLabel" >Prénom :</td>
-			 <td><input class="input" type="text" placeholder="Entrez votre prénom" id="formPrenom" style="width: 181px" required name="prenom"></td>
-		 </tr>
-
-		 <tr>
-			 <td class="formLabel" style="width:40px;">Tél. :</td>
-			 <td><input class="input" type="text" placeholder="Téléphone" id="tel" style="width: 181px" required name="phone"></td>
-			 <td class="formLabel">Courriel :</td>
-			 <td><input class="input" type="text" placeholder="Entrez votre courriel" id="courriel" style="width: 181px" required name="courriel"></td>
-			 <td class="formLabel" style="width:35px;">Âge :</td>
-			 <td><input class="input" type="number" required name="age" id="age" value="0" min="8" max="100" style="width:45px;"></td>
-		 </tr>
-		 </table>
-
-		 <div style="clear:both;"></div>
-
-		 <div class="decouverteAdd">
-		 <p>Comment avez-vous connu l’Académie? </p>
-		 <textarea name="decouverteAdd" id="formComments" required rows="5" cols="79" style="resize:none;"></textarea>
-		 </div>
-
-		 <div style="clear:both;"></div>
-
-		 <input type="hidden" name="cmd" value="_s-xclick">
-		<input type="hidden" name="hosted_button_id" value="JT9L9MLX3SZEQ">
-
-		<table style="visibility:hidden;float:right;margin-top:-140px;">
-		<tr><td><input type="hidden" name="on0" value="Votre forfait">Votre forfait</td></tr><tr><td>
-		<select name="os0" id="os0">
-		</select> </td></tr>
-		</table>
-		<input type="hidden" name="custom" id="custom" value="" >
-		<input type="hidden" name="on3" id="on3" value="" >
-		<input type="hidden" name="currency_code" value="CAD">
-		 <div style="clear:both;height:5px;"></div>
-		 <button type="submit" class="submit" style="float:left;" name="submit" >M'abonner</button>
-		 <input type="hidden" id="duree" name="duree" value="0">
-	 </form>
 
 	 <div style="clear:both;margin-bottom:25px;"></div>
 
@@ -120,74 +64,31 @@
 		</div>
 
  <div style="clear:both;margin-bottom:5px;"></div>
+ 
+ <span class="etape">Horaires </span>
+ <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
 
-<span class="etape">Étape 3 </span>
-	<p class="forfaitDesc">Confirmez votre présence aux cours. Ce système est très souple et vous permet de venir quand vous voulez dans la semaine, mais vous avez <br/>la responsabilité de confirmer votre présence aux cours chaque semaine, au moins 3 heures à l’avance.</p>
-	<div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
-
-	<!--<div class="h2Etape3">
-		<h2>Cours découverte et remise en forme -> <span class="blue">ADD Débutant et remise en forme</span></h2>
-
-		<h2>Cours régulier -> <span class="blue">ADD Cours intermédiaire</span></h2>
-
-		<h2>Force et mobilité ->  <span class="blue">Mobilité et renforcement</span></h2>
-	</div>
-
-	<p>Entretenir votre santé ou récupérer d’une blessure sont vos objectifs, venez essayer ces entraînements différents de l'ADD qui vous permettront de travailler sur vos besoins spécifiques avec notre thérapeute du sport de la clinique Makinos Médic. Aucune expérience requise! (réservation 24hrs à l’avance)
-
-	Pratique libre  Entrainement libre</p>
-	-->
-
-	<form method="post" action="mailCours.php" class="reserve-form">
-		 <table class="tableForm" >
-			 <tr>
-			 	 <td class="formLabel" style="width:46px;">Nom :</td>
-				 <td><input class="input" type="text" placeholder="Entrez votre nom et prénom" style="width:200px;" required name="nom"></td>
-				 <td class="formLabel" style="width:60px;">Courriel :</td>
-				 <td><input class="input" type="text" placeholder="Entrez votre adresse courriel" style="width: 175px" required name="mail"></td>
-			 </tr>
-			 <tr>
-			 	<td class="formLabel" style="width:32px;">Tél. :</td>
-				<td><input class="input" type="text" placeholder="Numéros de téléphone"  style="width:200px;" required name="tel"></td>
-			 	<td class="formLabel" style="width:170px;">Je viendrai au cours de :</td>
-				<td>
-				 	<select style="width:181px;" name="cours" required>
-				 		<option value="" disabled selected>Choisissez un cours...</option>
-				 		<option value="Lundi, ADD découverte : 18h30 à 20h00">Lundi ADD débutant : 18h30-20h</option>
-				 		<option value="Mardi, ADD régulier : 18h30-20h30">Mardi ADD intermédiaire : 18h30-20h30</option>
-				 		<option value="Mercredi, ADD débutant : 17h-18h30">Mercredi ADD débutant : 17h-18h30</option>
-						<option value="Mercredi, ADD avancé : 19h-20h30">Mercredi ADD avancé : 18h30-20h00</option>
-				 		<option value="Jeudi, ADD régulier : 18h30-20h30">Jeudi ADD intermédiaire : 18h30-20h30</option>
-				 		<option value="Vendredi, ADD découverte : 16h-17h30">Vendredi ADD débutant : 16h-17h30</option>
-				 		<option value="Vendredi, Pratique libre : 17h30-20h30">Vendredi Entrainement libre en salle : 17h30-20h30</option>
-				 		<option value="Samedi, force et mobilité : 11h-12h30">Samedi Mobilité &amp; Renforcement : 11h-12h30</option>
-				 		<option value="Samedi, pratique libre 13h-16h">Samedi Entrainement libre en salle : 13h30-16h</option>
-				 		<option value="Dimanche, ADD 8 à 10ans : 15h à 16h15">Dimanche ADD 8 à 10ans : 15h-16h15</option>
-						<option value="Dimanche, ADD 11 à 15ans : 16h à 17h30">Dimanche ADD 11 à 15ans : 16h30-17h45</option>
-				 		<option value="Dimanche ADD découverte : 17h30-19h00">Dimanche ADD débutant : 17h45-19h15</option>
-				 	</select>
-				 </td>
-			 </tr>
-
-		 </table>
-
-		 <button type="submit" class="submit"  name="submit" style="width:250px;">Confirmez ma présence</button>
-         <span class="response-message"></span>
-	</form>
-
-<div style="clear:both;margin-bottom:10px;"></div>
-
-		<p style="font-size:12px;float:right;"><i>Veuillez noter que les cours n'ont pas lieu les jours <a  target="blank" href="http://www.revenuquebec.ca/fr/nous_joindre/entreprises/feries.aspx" >fériés.</a> </i></p>
 	<div class="horaire">
 
 	<?php include 'horaire.php'; ?>
 	<p style="text-align: right;">
-		<a title="Quebec_files/horaire_AOUT2014.pdf" target="_blank" href="Quebec_files/horaire.pdf" style="font-style:normal;font-size:13px;">Cliquez ici pour une version imprimable de l’horaire! </a>
+		<a title="Quebec_files/Horaire_Novembre_2017.pdf" target="_blank" href="Quebec_files/Horaire_Novembre_2017.pdf" style="font-style:normal;font-size:13px;">Cliquez ici pour une version imprimable de l’horaire! </a>
 	</p>
 	</div>
 
 	<div style="clear:both;margin-bottom:5px;"></div>
+	
+<span class="etape">Inscription</span>
+ <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
+ <h1 style="margin:20px 0 10px 0;"> Inscrivez-vous <a href="https://clients.mindbodyonline.com/classic/ws?studioid=726696&stype=-7&sView=day&sLoc=0"><span style="text-decoration:underline;">ici</span></a> ou en passant par l'onglet "Inscription"</h1>
 
+   <br>
+   IMPORTANT :</br>
+   * Nous utilisons maintenant la plate-forme MindBody pour faciliter la gestion des cours et des abonnements.<br>
+   * Pour nos membres actuels, inscrivez-vous aux cours en tant que "cours impayés" le temps que nous ajoutions votre abonnement dans le nouveau système.<br>
+   * Si vous rencontrez un problème, n'hésitez pas à nous contacter. 
+   <br>
+   
 <h2>Les lieux</h2>
 À partir du 15 octobre, pour la fin de l'automne et la période hivernale, nous nous rejoignons à notre nouvelle salle au 88 rue St-Jean. Chaussures de sport propres requises!
 </br></br>
@@ -206,7 +107,7 @@ RAPPELS :</br>
  Aussi important que la bouteille d’eau! Pour participer à nos
  activités, veuillez imprimer et signer les deux documents suivants.
  N’oubliez pas de les apporter au premier cours. Pour les mineurs,
- un parent ou tuteur doit signer.
+ un parent ou tuteur légal doit signer.
  </p>
 
  <span class="iconic" style="opacity:0.8;font-size:30px;margin-bottom:5px;"> $</span> <a title="Quebec_files/responsabilites.pdf" href="Quebec_files/responsabilites.pdf" target="_blank">Acceptation des risques</a><br/>
@@ -225,99 +126,5 @@ RAPPELS :</br>
 
 <?php include 'footer.php'; ?>
 
-<script type="text/javascript">
-
-(function() {
-var selectedForfaitId = null;
-
-var forfaits = {
-	'12_sem_12_cours': {
-		paypalId: '12 semaines - 12 cours',
-		nom: '12 semaines - 12 cours $180,00 CAD',
-		mois: 3
-	},
-	'12_sem_24_cours': {
-		paypalId: '12 semaines - 24 cours',
-		nom: '12 semaines - 24 cours $324,00 CAD',
-		mois: 3
-	},
-	'12_sem_36_cours': {
-		paypalId: '12 semaines - 36 cours',
-		nom: '12 semaines - 36 cours $432,00 CAD',
-		mois: 3
-	},
-	'24_sem_24_cours': {
-		paypalId: '24 semaines - 24 cours',
-		nom: '24 semaines - 24 cours $336,00 CAD',
-		mois: 6
-	},
-	'24_sem_48_cours': {
-		paypalId: '24 semaines - 48 cours',
-		nom: '24 semaines - 48 cours $600,00 CAD',
-		mois: 6
-	},
-	'24_sem_72_cours': {
-		paypalId: '24 semaines - 72 cours',
-		nom: '24 semaines - 72 cours $792,00 CAD',
-		mois: 6
-	},
-	'illimite': {
-		paypalId: 'Forfait annuel illimité',
-		nom: 'Forfait annuel illimité $1 100,00 CAD',
-		mois: 12
-	}
-};
-
-var $os0 = $('#os0');
-$os0.append($.map(forfaits, function(forfait, key) {
-	return $('<option/>', {
-		text: forfait.nom,
-		value: forfait.paypalId,
-		'data-forfait-id': key
-	});
-}));
-
-$('.forfait-item').on('click', function() {
-	var $forfait = $(this),
-		forfaitId = $forfait.data('forfait-id');
-
-	if(!forfaitId || !forfaits[forfaitId]) {
-		return;
-	}
-
-	if(forfaitId == 'illimite') {
-		alert("Vous désirez vous inscrire pour un forfait illimité, nous vous proposons de nous contacter ou de payer en personne par chèque ou argent comptant. \nMerci!\n\ninfo@addquebec.ca\n581-300-6545");
-		return;
-	}
-
-	$('.forfait-item').removeClass('selected');
-	$forfait.addClass('selected');
-	selectedForfaitId = forfaitId;
-});
-
-$('#inscription').on('submit', function validateForm(){
-	if(selectedForfaitId){
-		//Préparation des variables contenant les valeurs des champs du formulaire
-		$duree = forfaits[selectedForfaitId].mois;
-		$nom = document.getElementById("formNom").value;
-		$prenom = document.getElementById("formPrenom").value;
-		$tel = document.getElementById("tel").value;
-		$courriel = document.getElementById("courriel").value;
-		$comments = document.getElementById("formComments").value;
-
-		//Construction des tableaux qui seront envoyés aux variables "custom" et "on3"
-		$formValue = [$duree, $nom, $prenom, $tel, $courriel, $comments];
-		$os0.find('option[data-forfait-id="'+ selectedForfaitId +'"]').prop('selected', 'selected');
-		document.getElementById("custom").value = $formValue;
-
-		return true;
-	}
-	else {
-		alert("Veuillez choisir un forfait!");
-		return false;
-	}
-});
-})();
-</script>
 </body>
 </html>

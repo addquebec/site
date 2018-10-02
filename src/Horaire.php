@@ -32,75 +32,43 @@ class Horaire {
 		if(!self::$cours) {
 			$coursData = [
 				[
-					'nom' => 'ADD Débutant',
-					'type' => 'decouverte',
+					'nom' => 'ADD',
+					'type' => 'vert',
 					'jour' => 1,
 					'debut' => [18, 30],
-					'fin' => [20, 0]
+					'fin' => [20,00]
 				],
 
 				[
-					'nom' => 'ADD Intermédiaire',
+					'nom' => 'ADD',
 					'type' => 'vert',
 					'jour' => 2,
 					'debut' => [18, 30],
-					'fin' => [20, 30]
+					'fin' => [20, 00]
 				],
 
 				[
-					'nom' => 'ADD Débutant',
-					'type' => 'decouverte',
-					'jour' => 3,
-					'debut' => [17, 0],
+					'nom' => 'ADD (sur invitation)',
+					'type' => 'vert',
+					'jour' => 4,
+					'debut' => [18, 30],
+					'fin' => [20, 00]
+				],
+
+				[
+					'nom' => 'ADD',
+					'type' => 'vert',
+					'jour' => 5,
+					'debut' => [17, 00],
 					'fin' => [18, 30]
 				],
 
 				[
-					'nom' => 'ADD Avancé',
-					'type' => 'bleu',
-					'jour' => 3,
-					'debut' => [18, 30],
-					'fin' => [20, 0]
-				],
-
-				[
-					'nom' => 'ADD Intermédiaire',
-					'type' => 'vert',
-					'jour' => 4,
-					'debut' => [18, 30],
-					'fin' => [20, 30]
-				],
-
-				[
-					'nom' => 'ADD Débutant',
-					'type' => 'decouverte',
-					'jour' => 5,
-					'debut' => [16, 0],
-					'fin' => [17, 30]
-				],
-
-				[
-					'nom' => 'Entrainement libre en salle',
-					'type' => 'jaune',
-					'jour' => 5,
-					'debut' => [17, 30],
-					'fin' => [20, 30]
-				],
-
-				[
-					'nom' => 'Mobilité et renforcement',
-					'type' => 'force',
-					'jour' => 6,
-					'debut' => [11, 0],
-					'fin' => [12, 30]
-				],
-
-				[
-					'nom' => 'Entrainement libre en salle',
+					'nom' => 'Entrainement libre en salle / JAM / Atelier',
 					'type' => 'jaune',
 					'jour' => 6,
-					'debut' => [13, 30],
-					'fin' => [16, 0]
+					'debut' => [13, 00],
+					'fin' => [17, 0]
 				],
 
 
@@ -108,25 +76,65 @@ class Horaire {
 					'nom' => 'ADD 8 à 10ans',
 					'type' => 'enfant',
 					'jour' => 7,
-					'debut' => [15, 0],
-					'fin' => [16, 15]
+					'debut' => [13, 0],
+					'fin' => [14, 30]
 				],
 
 				[
 					'nom' => 'ADD 11 à 15ans',
 					'type' => 'enfant',
 					'jour' => 7,
-					'debut' => [16, 30],
-					'fin' => [17, 45]
+					'debut' => [15, 0],
+					'fin' => [16, 30]
 				],
 
 				[
-					'nom' => 'ADD Débutant',
-					'type' => 'decouverte',
+					'nom' => 'ADD',
+					'type' => 'vert',
 					'jour' => 7,
-					'debut' => [17, 45],
-					'fin' => [19, 15]
-				]
+					'debut' => [17, 00],
+					'fin' => [18, 30]
+				],
+				
+				[
+					'nom' => 'ADD 8 à 10ans',
+					'type' => 'enfant',
+					'jour' => 3,
+					'debut' => [17, 0],
+					'fin' => [18, 30]
+				],
+				
+				[
+					'nom' => 'ADD 11 à 15ans',
+					'type' => 'enfant',
+					'jour' => 3,
+					'debut' => [19, 0],
+					'fin' => [20, 30]
+				],
+                
+                [
+					'nom' => 'Entrainement libre en salle',
+					'type' => 'jaune',
+					'jour' => 1,
+					'debut' => [14, 00],
+					'fin' => [16, 00]
+				],
+                
+                [
+					'nom' => 'Entrainement libre en salle',
+					'type' => 'jaune',
+					'jour' => 3,
+					'debut' => [14, 00],
+					'fin' => [16, 00]
+				],
+                
+                [
+					'nom' => 'Entrainement libre en salle',
+					'type' => 'jaune',
+					'jour' => 5,
+					'debut' => [14, 00],
+					'fin' => [16, 00]
+				],
 			];
 
 			self::$cours = array_map(function($data) {

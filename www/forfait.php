@@ -3,7 +3,7 @@
 		 <th class="titreAbonnement">Activité à l'unité</th>
 	 </tr>
 	 <tr>
-		 <td>20 $ <br> <span class="tauxHoraire">payable sur place en comptant ou par chèque</span></td>
+		 <td>20 $</td>
 	 </tr>
 </table>
 
@@ -19,9 +19,9 @@
 
 	 <tr>
 		 <td><b>Abonnement 12 semaines</b></td>
-		 <td class="forfait-item" data-forfait-id="12_sem_12_cours">180 $</td>
-		 <td class="forfait-item" data-forfait-id="12_sem_24_cours">324 $</td>
-		 <td class="forfait-item" data-forfait-id="12_sem_48_cours">432 $</td>
+		 <td data-forfait-id="12_sem_12_cours">180 $</td>
+		 <td data-forfait-id="12_sem_24_cours">324 $</td>
+		 <td data-forfait-id="12_sem_48_cours">432 $</td>
 	 </tr>
 </table>
 
@@ -35,9 +35,9 @@
 
 	 <tr>
 		 <td><b>Abonnement 24 semaines</b></td>
-		 <td class="forfait-item" data-forfait-id="24_sem_24_cours">336 $</td>
-		 <td class="forfait-item" data-forfait-id="24_sem_48_cours">600 $</td>
-		 <td class="forfait-item" data-forfait-id="24_sem_72_cours">792 $</td>
+		 <td data-forfait-id="24_sem_24_cours">336 $</td>
+		 <td data-forfait-id="24_sem_48_cours">600 $</td>
+		 <td data-forfait-id="24_sem_72_cours">792 $</td>
 	 </tr>
 </table>
 
@@ -46,6 +46,6 @@
 		 <th class="titreAbonnement">Illimité un an</th>
 	 </tr>
 	 <tr>
-		 <td class="forfait-item" data-forfait-id="illimite">1100$</td>
+		 <td data-forfait-id="illimite">1100$</td>
 	 </tr>
 </table>
