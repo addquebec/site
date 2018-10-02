@@ -48,7 +48,7 @@ class Horaire {
 				],
 
 				[
-					'nom' => 'ADD (sur invitation)',
+					'nom' => 'ADD',
 					'type' => 'vert',
 					'jour' => 4,
 					'debut' => [18, 30],
@@ -56,19 +56,11 @@ class Horaire {
 				],
 
 				[
-					'nom' => 'ADD',
-					'type' => 'vert',
-					'jour' => 5,
-					'debut' => [17, 00],
-					'fin' => [18, 30]
-				],
-
-				[
 					'nom' => 'Entrainement libre en salle / JAM / Atelier',
 					'type' => 'jaune',
 					'jour' => 6,
 					'debut' => [13, 00],
-					'fin' => [17, 0]
+					'fin' => [16, 0]
 				],
 
 
@@ -115,25 +107,9 @@ class Horaire {
                 [
 					'nom' => 'Entrainement libre en salle',
 					'type' => 'jaune',
-					'jour' => 1,
-					'debut' => [14, 00],
-					'fin' => [16, 00]
-				],
-                
-                [
-					'nom' => 'Entrainement libre en salle',
-					'type' => 'jaune',
-					'jour' => 3,
-					'debut' => [14, 00],
-					'fin' => [16, 00]
-				],
-                
-                [
-					'nom' => 'Entrainement libre en salle',
-					'type' => 'jaune',
 					'jour' => 5,
-					'debut' => [14, 00],
-					'fin' => [16, 00]
+					'debut' => [17, 00],
+					'fin' => [18, 30]
 				],
 			];
 

@@ -27,22 +27,6 @@
 
 <table class="table2">
 	 <tr>
-		 <th class="titreAbonnement"></th>
-		 <th class="titreAbonnement">24 cours</th>
-		 <th class="titreAbonnement">48 cours</th>
-		 <th class="titreAbonnement">72 cours</th>
-	 </tr>
-
-	 <tr>
-		 <td><b>Abonnement 24 semaines</b></td>
-		 <td data-forfait-id="24_sem_24_cours">336 $</td>
-		 <td data-forfait-id="24_sem_48_cours">600 $</td>
-		 <td data-forfait-id="24_sem_72_cours">792 $</td>
-	 </tr>
-</table>
-
-<table class="table2">
-	 <tr>
 		 <th class="titreAbonnement">Illimité un an</th>
 	 </tr>
 	 <tr>
