@@ -73,7 +73,7 @@
                 <div style="clear:both;border-bottom:1px dotted rgba(0,0,0,0.3);margin-bottom:15px;"></div>
 
                 <div id="horaire">
-                    <img src="images/horaire.jpg" alt="" style=" margin-left: 125px;">
+                    <img src="images/horaire.jpg" alt="" style=" margin-left: 30px;">
                 </div>
 
                 <div style="clear:both;margin-bottom:5px;"></div>
